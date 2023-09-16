@@ -13,4 +13,6 @@
 * Elesticsearch, Scrapy, Celery.
 
 
-[![Alt text](https://images7.memedroid.com/images/UPLOADED599/5c824ff510b5d.jpeg)](https://digitalocean.com)
+
+### One meme to rule them all
+[![Alt text](https://images7.memedroid.com/images/UPLOADED599/5c824ff510b5d.jpeg)]
