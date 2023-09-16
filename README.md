@@ -13,5 +13,4 @@
 * Elesticsearch, Scrapy, Celery.
 
 
-Linked logo: [![convert](/wp-smaller.png)]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FCFSojg5BLs5%2F&psig=AOvVaw1I1P0b1hFNcXaQ5N58v4gu&ust=1694974899263000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIili9jfr4EDFQAAAAAdAAAAABAE)
+![convert](https://www.instagram.com/p/CFSojg5BLs5/)
