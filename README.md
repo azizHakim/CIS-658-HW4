@@ -13,4 +13,4 @@
 * Elesticsearch, Scrapy, Celery.
 
 
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+[![Alt text](https://images7.memedroid.com/images/UPLOADED599/5c824ff510b5d.jpeg)](https://digitalocean.com)
