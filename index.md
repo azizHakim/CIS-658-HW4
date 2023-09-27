@@ -1,23 +1,3 @@
-#              S M Azizul Hakim
-* Worked as an ML Engineer.
-* Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
-* Up for Fishing, Vollyball, Football, a cup of Coffee.
-* Currently reading Fall of Giants by Ken Follet.
-
-## Technical Background
-
-* Python, C/C++
-* Flask, FastAPI.
-* MySQL, PostgreSQL, MongoDB, Firebase.
-* Tensorflow, PyTorch, HuggingFace, Prompt Engineering.
-* Elesticsearch, Scrapy, Celery.
-
-
-
-### One meme to rule them all
-[![Alt text](https://images7.memedroid.com/images/UPLOADED599/5c824ff510b5d.jpeg)]
-
-
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">An ML engineer with an interest in Backend and DevOps</h3>
 
@@ -27,7 +7,7 @@
 
 - ⚙️ Current Stack **Python, Flask, FastAPI, Mysql, ElasticSearch, Docker, Nginx, React**  
 
-- 📫 How to reach me **hakim.smazizul@gmail.com**
+- 📫 How to reach me **hakims@mail.gvsu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,9 +16,6 @@
 <a href="https://www.leetcode.com/systemfraud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="systemfraud" height="30" width="40" /></a>
 </p>
 
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg" />
 </p>
 
 ![](https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
