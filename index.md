@@ -10,11 +10,11 @@
 - 📫 How to reach me **hakims@mail.gvsu.edu**
 
 <h3 align="left">Connect with me:</h3>
-< align="left">
+<p align="left">
 <a href="https://linkedin.com/in/aziz-hakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz-hakim" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/soliton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soliton" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/systemfraud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="systemfraud" height="30" width="40" /></a>
-
+</p>
 
 
 <img height="273em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
